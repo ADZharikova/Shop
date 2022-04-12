@@ -53,7 +53,7 @@ namespace Shop
             while (isOpen)
             {
                 Console.SetCursorPosition(40, 0);
-                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Добро пожаловать в лавку!");
                 Console.WriteLine();
 
